@@ -6,5 +6,5 @@ https://amanvlogs627.blogspot.com/2025/01/analyzing-amazon-prime-user-trends-wit
 
 Thanks & Regards,
 Shaik Aman<br>
-I M.SC Datascience<br>
+1st M.SC Datascience<br>
 U24PG507DTS036.
