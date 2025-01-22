@@ -5,6 +5,6 @@ The below link is the blog which i have created for my assignment purpose and yo
 https://amanvlogs627.blogspot.com/2025/01/analyzing-amazon-prime-user-trends-with.html
 
 Thanks & Regards,
-Shaik Aman
-I M.SC Datascience
+Shaik Aman<br>
+I M.SC Datascience<br>
 U24PG507DTS036.
